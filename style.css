@@ -1,0 +1,13 @@
+#logo{
+height: 50px;
+width: 160px;
+}
+.slidercolor{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.container{
+    margin-bottom: 60px;
+}
